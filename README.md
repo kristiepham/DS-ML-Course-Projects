@@ -2,6 +2,9 @@
 
 Completed projects demonstrating my application of various machine learning algorithms from the course 'Python for Data Science and Machine Learning Bootcamp', instructed by Jose Portilla of Pierian Data using Python and Jupyter Notebook.
 
+## Python Libraries
+- NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
+
 ## Projects
 - Linear Regression
 
@@ -14,6 +17,3 @@ Completed projects demonstrating my application of various machine learning algo
 - Principal Component Analysis (PCA)
 - Recommender Systems
 - Natural Language Processing (NLP)
-
-## Python Libraries
-- NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
