@@ -9,9 +9,9 @@ Completed projects demonstrating my application of various machine learning algo
 - Linear Regression
 - Logistic Regression
 - K Nearest Neighbours (KNN)
+- Decision Trees and Random Forests
 
 ## Future Projects
-- Decision Trees and Random Forest
 - Support Vector Machines (SVM)
 - K Means
 - Principal Component Analysis (PCA)
