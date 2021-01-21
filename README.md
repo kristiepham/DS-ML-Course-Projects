@@ -15,9 +15,10 @@ Completed projects demonstrating my application of various machine learning algo
   - Anonymized Data
 - Decision Trees and Random Forests: 
   - Lending Club
+- Support Vector Machines (SVM)
+  - Iris Flower Species
 
 ## Future Projects
-- Support Vector Machines (SVM)
 - K Means
 - Principal Component Analysis (PCA)
 - Recommender Systems
