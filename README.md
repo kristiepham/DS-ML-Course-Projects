@@ -6,10 +6,15 @@ Completed projects demonstrating my application of various machine learning algo
 - NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
 
 ## Projects
-- Linear Regression
-- Logistic Regression
+- Linear Regression: 
+  - Ecommerce Customers
+- Logistic Regression: 
+  - Titanic
+  - Advertising
 - K Nearest Neighbours (KNN)
-- Decision Trees and Random Forests
+  - Anonymized Data
+- Decision Trees and Random Forests: 
+  - Lending Club
 
 ## Future Projects
 - Support Vector Machines (SVM)
