@@ -17,9 +17,10 @@ Completed projects demonstrating my application of various machine learning algo
   - Lending Club
 - Support Vector Machines (SVM)
   - Iris Flower Species
+- K Means Clustering
+  - Private vs Public School Clustering
 
 ## Future Projects
-- K Means
 - Principal Component Analysis (PCA)
 - Recommender Systems
 - Natural Language Processing (NLP)
