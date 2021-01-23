@@ -19,8 +19,9 @@ Completed projects demonstrating my application of various machine learning algo
   - Iris Flower Species
 - K Means Clustering
   - Private vs Public School Clustering
+- Principal Component Analysis (PCA)
+  - Breast Cancer PCA
 
 ## Future Projects
-- Principal Component Analysis (PCA)
 - Recommender Systems
 - Natural Language Processing (NLP)
