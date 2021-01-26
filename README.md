@@ -3,7 +3,7 @@
 Completed projects demonstrating my application of various machine learning algorithms from the course 'Python for Data Science and Machine Learning Bootcamp', instructed by Jose Portilla of Pierian Data using Python and Jupyter Notebook.
 
 ## Python Libraries
-- NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
+- NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, NLTK
 
 ## Projects
 - Linear Regression: 
