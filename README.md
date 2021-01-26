@@ -21,7 +21,7 @@ Completed projects demonstrating my application of various machine learning algo
   - Private vs Public School Clustering
 - Principal Component Analysis (PCA)
   - Breast Cancer PCA
-
-## Future Projects
 - Recommender Systems
+  - MovieLens
+## Future Projects
 - Natural Language Processing (NLP)
