@@ -23,5 +23,5 @@ Completed projects demonstrating my application of various machine learning algo
   - Breast Cancer PCA
 - Recommender Systems
   - MovieLens
-## Future Projects
 - Natural Language Processing (NLP)
+  - Yelp Reviews
