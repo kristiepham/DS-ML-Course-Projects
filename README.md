@@ -14,7 +14,7 @@ Completed projects demonstrating my application of various machine learning algo
 - K Nearest Neighbours (KNN)
   - Anonymized Data
 - Decision Trees and Random Forests: 
-  - Lending Club
+  - LendingClub
 - Support Vector Machines (SVM)
   - Iris Flower Species
 - K Means Clustering
@@ -25,3 +25,5 @@ Completed projects demonstrating my application of various machine learning algo
   - MovieLens
 - Natural Language Processing (NLP)
   - Yelp Reviews
+- Artifical Neural Networks
+  - LendingClub
