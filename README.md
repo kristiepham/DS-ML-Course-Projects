@@ -1,6 +1,6 @@
 # DS-ML-Course-Projects
 
-Completed projects demonstrating my application of various machine learning algorithms from the course 'Python for Data Science and Machine Learning Bootcamp', instructed by Jose Portilla of Pierian Data using Python and Jupyter Notebook.
+Completed projects demonstrating my application of various machine learning algorithms from the course 'Python for Data Science and Machine Learning Bootcamp', instructed by Jose Portilla of Pierian Data using Python. Each project is contained in a Jupyter Notebook.
 
 ## Python Libraries
 - NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, NLTK, TensorFlow, Keras
